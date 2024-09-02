@@ -2,7 +2,6 @@
 # Real Estate Website
 
 Welcome to the repository for our comprehensive Real Estate Website. This dynamic platform not only allows users to browse and apply for properties but also provides portals for tenants, property owners, and managers, each with tailored functionalities.
-
 ## Features
 
 - **Property Listings**: Users can view detailed listings, including photos, prices, and descriptions.
@@ -18,7 +17,9 @@ Welcome to the repository for our comprehensive Real Estate Website. This dynami
 - **Vue Router**: Manages navigation between the various components and views.
 - **Axios**: Handles HTTP requests to our backend services.
 - **Bootstrap**: Provides styling and responsiveness.
-- **Node.js & Express**: Backend server technology (if applicable).
+- **Node.js & Express**: Backend server technology used in some services.
+- **Java & Spring Boot**: The backend is developed using Java and Spring Boot, enabling robust server-side capabilities and REST API interactions.
+
 
 ## Setup
 
